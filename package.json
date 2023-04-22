@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-blockchain-helpers",
+  "version": "1.0.0",
+  "description": "A set of tools and utilities to interact with different blockchains in nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinaHo/nodejs-blockchain-helpers.git"
+  },
+  "keywords": [
+    "Blockchain",
+    "NodeJS",
+    "WEB3",
+    "Ethereum",
+    "Tron",
+    "Bitcoin",
+    "Cardano"
+  ],
+  "author": "Sina Honarvar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SinaHo/nodejs-blockchain-helpers/issues"
+  },
+  "homepage": "https://github.com/SinaHo/nodejs-blockchain-helpers#readme"
+}
